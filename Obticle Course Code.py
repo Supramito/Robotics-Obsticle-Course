@@ -48,7 +48,7 @@ calibrate_drivetrain()
 
 #endregion VEXcode Generated Robot Configuration
 myVariable = 0
-
+# This is the accual code written for the movement of the train
 def when_started1():
     global myVariable
     drivetrain.drive_for(FORWARD, 5.5, INCHES)
