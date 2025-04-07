@@ -2,12 +2,15 @@
   - View the image
 
 **How your BaseBot interacts with each obstacle.** 
+
     My whole course has 6 set obsticles. My first obsticle the robot has to
     dodge the piller set around the corrner. Then it has to jump/run over 2
     ramps. It also has to run through a block tower  and has to contiue 
     dodging the the pillars set ahead near the turn. Now the robot has to collect
     the 2 balls laying around and has to put them in the ball house and continue 
     to the finish line.
+
+    
 **How to run your Python script. **
   - Copy and paste the (.py) code into vex exp code
 
