@@ -23,3 +23,8 @@
     was that I had to learn how to use VEX EXP code and that took me while
     Some things that worked out well was making the obsticle course and adding
     it all to my GITHUB repository. 
+
+**Aditional Information**
+
+    The name of the attached files may be a bit unusual but aside from that the information in the file is good
+
